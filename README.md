@@ -21,12 +21,12 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 ### Quick Chat
 A simple site that allows users to create, join rooms and chat.  
 **Tech:** React, TailwindCSS, TypeScript, WebSockets, nodeJS  
-**Link:** [Quick Chat](https://kurochatbox.netlify.app/)
+**Link:** [Quick Chat](https://quickchat.kuroubxcvs.me/)
 
 ### Online T-Shirt Store with Custom Design Functionality 
 A responsive e-commerce-style site.  
 **Tech:** React, Typescript, Tailwind CSS  
-**Link:** [Online T-Shirt Store](https://kurotshirtstore7459.netlify.app/)
+**Link:** [Online T-Shirt Store](https://printique.kuroubxcvs.me/)
 
 [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amulya-marhatta-ba400333a)](https://www.linkedin.com/in/amulya-marhatta-ba400333a) 
 [![github](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/kuro-0777)](https://github.com/kuro-0777)  
