@@ -9,6 +9,8 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 
 ## Goals
 - Develop tools that solve real problems and offer clean user experiences
+- Develop tools that I personally use for my own work
+- Contribute to open source (if possible)
 - Continuously improve skills across the full development stack
 
 ## Interests
@@ -16,17 +18,23 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 - Implement Real-time functionality using WebSockets and live updates
 - Experiment with Java to create simple applications
 
-## Projects
+## Projects (Only the public ones pls dont judge they're cringe)
 
-### Quick Chat
-A simple site that allows users to create, join rooms and chat.  
-**Tech:** React, TailwindCSS, TypeScript, WebSockets, nodeJS  
-**Link:** [Quick Chat](https://quickchat.kuroubxcvs.me/)
+1. Random pokemon drawing game (I saw a tiktok where couples were doing a "draw pokemon from memory" challenge and decided to make it on my own.)
+   https://drawrandompokemon.netlify.app
+2. Typewriter (I didnt know what to call it, u just type and letters pop up in screen)
+   https://kurotypewriter.netlify.app
+3. Quickchat (Might not work cause I have long abandoned this thing)
+   https://quickchat.kuroubxcvs.me
+4. Genshin Impact Character guess (Tries to follow akinator logic)
+   https://kurogenshinguesser.netlify.app
+5. T Shirt Store prototype with custom design maker canvas (React-Konva)
+   https://printique.kuroubxcvs.me
 
-### Online T-Shirt Store with Custom Design Functionality 
-A responsive e-commerce-style site.  
-**Tech:** React, Typescript, Tailwind CSS  
-**Link:** [Online T-Shirt Store](https://printique.kuroubxcvs.me/)
+## Work Experience
+
+(Feb 2025 - Feb 2026)
+- Worked to develop a fully functional E-Commerce Store using Wordpress REST API and Next.js.
 
 [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amulya-marhatta-ba400333a)](https://www.linkedin.com/in/amulya-marhatta-ba400333a) 
 [![github](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/kuro-0777)](https://github.com/kuro-0777)  
