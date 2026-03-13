@@ -26,10 +26,6 @@ I'm focused on building useful, real-world projects with a strong foundation in 
    https://kurotypewriter.netlify.app
 3. Quickchat (Might not work cause I have long abandoned this thing)
    https://quickchat.kuroubxcvs.me
-4. Genshin Impact Character guess (Tries to follow akinator logic)
-   https://kurogenshinguesser.netlify.app
-5. T Shirt Store prototype with custom design maker canvas (React-Konva)
-   https://printique.kuroubxcvs.me
 
 ## Work Experience
 
