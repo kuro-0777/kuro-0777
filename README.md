@@ -26,11 +26,13 @@ I'm focused on building useful, real-world projects with a strong foundation in 
    https://kurotypewriter.netlify.app
 3. Quickchat (Might not work cause I have long abandoned this thing)
    https://quickchat.kuroubxcvs.me
+4. Kitabkakura (A community for book readers to discuss about books, create their own readlist)
+   My best creation so far https://kitabkakura.vercel.app
 
 ## Work Experience
 
-(Feb 2025 - Feb 2026)
-- Worked to develop a fully functional E-Commerce Store using Wordpress REST API and Next.js.
+(Feb 2025 - Current)
+- Working to develop a fully functional E-Commerce Store using Wordpress (PHP,HTML,CSS)
 
 [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amulya-marhatta-ba400333a)](https://www.linkedin.com/in/amulya-marhatta-ba400333a) 
 [![github](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/kuro-0777)](https://github.com/kuro-0777)  
