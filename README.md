@@ -31,7 +31,7 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 
 ## Work Experience
 
-(Feb 2025 - Current)
+Wordpress Developer (Frontend not SEO) (Feb 2025 - Current)
 - Working to develop a fully functional E-Commerce Store using Wordpress (PHP,HTML,CSS)
 
 [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amulya-marhatta-ba400333a)](https://www.linkedin.com/in/amulya-marhatta-ba400333a) 
