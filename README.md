@@ -21,13 +21,16 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 ## Projects (Only the public ones pls dont judge they're cringe)
 
 1. Random pokemon drawing game (I saw a tiktok where couples were doing a "draw pokemon from memory" challenge and decided to make it on my own.)
-   https://drawrandompokemon.netlify.app
+   https://pokemondraw.netlify.app
 2. Typewriter (I didnt know what to call it, u just type and letters pop up in screen)
    https://kurotypewriter.netlify.app
 3. Quickchat (Might not work cause I have long abandoned this thing)
    https://quickchat.kuroubxcvs.me
 4. Kitabkakura (A community for book readers to discuss about books, create their own readlist)
-   My best creation so far https://kitabkakura.vercel.app
+    https://kitabkakura.vercel.app
+5. Loo Designs (Biggest project so far, a platform where people create and upload tshirt designs and we sell it)
+   https://loodesigns.vercel.app
+   
 
 ## Work Experience
 
