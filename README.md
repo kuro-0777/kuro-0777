@@ -31,14 +31,14 @@ I'm focused on building useful, real-world projects with a strong foundation in 
 
 ## Projects (Only the public ones pls dont judge they're cringe)
 
-1. Random pokemon drawing game (I saw a tiktok where couples were doing a "draw pokemon from memory" challenge and decided to make it on my own.)
-   https://pokemondraw.netlify.app
-2. Kitabkakura (A community for book readers to discuss about books, create their own readlist)
-   https://kitabkakura.vercel.app
-3. Loo Designs (Biggest project so far, a platform where people create and upload tshirt designs and we sell it)
+1. Loo Designs (Biggest project so far, a platform where people create and upload tshirt designs and we sell it)
    https://loo.design
-4. Kasari (A guide to how things actually work in Nepal: paperwork guides, quick answers and a nearest-office finder, with official rules and real-world experience kept apart)
+2. Kasari (A guide to how things actually work in Nepal: paperwork guides, quick answers and a nearest-office finder, with official rules and real-world experience kept apart)
    https://kasarigarne.com
+3. Kitabkakura (A community for book readers to discuss about books, create their own readlist)
+   https://kitabkakura.vercel.app
+4. Random pokemon drawing game (I saw a tiktok where couples were doing a "draw pokemon from memory" challenge and decided to make it on my own.)
+   https://pokemondraw.netlify.app
 
 ## Work Experience
 
